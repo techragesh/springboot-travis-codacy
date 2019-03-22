@@ -33,7 +33,7 @@ I have written unit tests for this application and used **jacoco** for code cove
 
 ![ticketapp-unittest-coverage.png](ticketapp-unittest-coverage.png)
 
-### Steps to add travis-ci into this application
+_### Steps to add **_travis-ci_** into this application_
 
 * Create .travis.yml file for CI integration. It will call always when you commit the code.
 
@@ -73,7 +73,7 @@ after_success:
 
 ```
 
-### Steps to add codecov into this application
+### _Steps to add **_codecov_** into this application_
 
 * Login to https://codecov.io/gh with your Github or Bitbucket Account.
 
@@ -94,7 +94,7 @@ after_success:
 
 ```
 
-### Steps to add codacy into this application
+### _Steps to add **_codacy_** into this application_
 
 * Login to codacy.com with your Github or Bitbucket Account
 
@@ -114,5 +114,9 @@ after_success:
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/677ef339db2845a5b7a0426a9223f5f4)](https://www.codacy.com/app/techragesh/springboot-travis-codacy?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=techragesh/springboot-travis-codacy&amp;utm_campaign=Badge_Grade)
 
 ```
+
+### _Application Overall Status_
+
+![ticketapp-overall-status.png](ticketapp-overall-status.png)
 
 ### Happy Coding
